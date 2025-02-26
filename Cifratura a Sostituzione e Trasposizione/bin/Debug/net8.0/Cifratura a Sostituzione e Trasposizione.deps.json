@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cifratura a Sostituzione e Trasposizione/1.0.0": {
+        "runtime": {
+          "Cifratura a Sostituzione e Trasposizione.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cifratura a Sostituzione e Trasposizione/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
