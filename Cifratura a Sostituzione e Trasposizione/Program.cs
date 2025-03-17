@@ -128,6 +128,7 @@ int k2 = Int32.Parse(Console.ReadLine());
 
 Console.WriteLine("cifratura:");
 sostituzione(k1, char_messaggio);
+    stampa(char_messaggio);
 trasposizione(k2, char_messaggio);
 stampa(char_messaggio);
 
